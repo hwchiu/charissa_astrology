@@ -9,10 +9,11 @@ theme:
   language: zh-TW
   name: material
   palette:
-    primary: blue
-    scheme: preference
+    scheme: default
   features:
     - navigation.instant
+extra_css:
+  - stylesheets/extra.css
 nav:
   - 首頁: README.md
   - 關於我: about.md
