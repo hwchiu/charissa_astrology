@@ -19,27 +19,13 @@ nav:
   - 如何通過占星解決問題: how_to_use_astrology.md
   - 為什麼選擇望舒月: why_charissa.md
   - 諮詢服務:
-      - Introduction: kubernetes/introduction.md
-      - CI/CD: kubernetes/cicd.md
-      - Network: kubernetes/network.md
-      - Observability: kubernetes/observability.md
-      - Service Mesh: kubernetes/service-mesh.md
-      - Use Cases: kubernetes/usecases.md
-      - Container: kubernetes/container.md
-      - Tools: kubernetes/tool.md
-  - Infrastructure as Code:
-      - Terraform: iac/terraform.md
+      - 基本介紹: service/introduction.md
+      - 本命盤: service/natal_chart_analysis.md
+      - 關係合盤: service/composite.md
+      - 流年預測: service/transit.md
+      - 生時校正/本命解析: service/birth_rectification.md
+      - 價格介紹: service/price.md
   - 聯繫諮詢: contact.md
-extra:
-  social:
-    - icon: fontawesome/solid/stream
-      link: https://technologynoteniu.github.io/timeline/
-    - icon: fontawesome/brands/telegram
-      link: https://t.me/technologynote
-    - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/technologynoteniu
-    - icon: fontawesome/brands/github
-      link: https://github.com/technologynoteniu
 markdown_extensions:
   - toc:
       permalink: true
