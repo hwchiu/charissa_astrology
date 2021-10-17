@@ -25,7 +25,7 @@ nav:
       - 關係合盤: service/composite.md
       - 流年預測: service/transit.md
       - 生時校正/本命解析: service/birth_rectification.md
-      - 價格介紹: service/price.md
+  - 價格介紹: price.md
   - 聯繫諮詢: contact.md
 markdown_extensions:
   - toc:
