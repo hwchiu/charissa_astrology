@@ -1,4 +1,4 @@
-site_name: '《矽谷小狐姬》望舒月(Charissa)的占星灣'
+site_name: '《矽谷小狐姬》有狐(Charissa)的占星灣'
 copyright: Copyright &copy; 2019 - 2021 Little Fox Charissa’s Astrology Consultatio
 theme:
   custom_dir: overrides
@@ -18,7 +18,7 @@ nav:
   - 首頁: README.md
   - 關於我: about.md
   - 如何通過占星解決問題: how_to_use_astrology.md
-  - 為什麼選擇望舒月: why_charissa.md
+  - 為什麼選擇有狐: why_charissa.md
   - 諮詢服務:
       - 基本介紹: service/introduction.md
       - 本命盤: service/natal_chart_analysis.md
